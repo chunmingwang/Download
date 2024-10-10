@@ -1,7 +1,5 @@
 # Download
-Example for VisualFBEditor
-
-URLDownloadToFile
+URLDownloadToFile Example for VisualFBEditor
 
 https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms775123(v=vs.85)
 
